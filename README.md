@@ -12,7 +12,8 @@ Cada registro contiene:
 - género
 - rating
 - estado de favorito
-- descripción opcional
+- descripción
+- 
 Instrucciones para clonar el repositorio y abrir la página
 
 Rutas implementadas:
@@ -28,11 +29,13 @@ Rutas implementadas:
 
 2. Encima de la lista de archivos, haz clic en Code.
 
-![alt text](image.png)
+<img width="378" height="97" alt="image" src="https://github.com/user-attachments/assets/8841f3de-dfc5-4369-820c-47a064d8fb1b" />
+
 
 3. Copia la dirección URL del repositorio.
 
-![alt text](image-1.png)
+<img width="430" height="320" alt="image" src="https://github.com/user-attachments/assets/b6bbb4d0-ca27-4df3-aed4-43f00d8a7bc2" />
+
 
 4. Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.
 
@@ -54,33 +57,5 @@ Ejecutar el proyecto:
 
 "npm run dev"
 
-Fotos de la página:
 
-Pagina principal
-
-![alt text](image-2.png)
-
-Búsqueda
-
-![alt text](image-3.png)
-
-Agregar libro
-
-![alt text](image-4.png)
-
-Editar libro 
-
-![alt text](image-5.png)
-
-Favorito
-
-<video controls src="2026-08-27 23-21-29.mkv" title=" "></video>
-
-Ver detalles
-
-![alt text](image-7.png)
-
-Eliminar libro
-
-<video controls src="2026-08-27 23-23-08.mkv" title="Title"></video>
-
+Muchas gracias, espero que te guste.
