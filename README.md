@@ -13,7 +13,7 @@ Cada registro contiene:
 - rating
 - estado de favorito
 - descripción
-- 
+  
 Instrucciones para clonar el repositorio y abrir la página
 
 Rutas implementadas:
